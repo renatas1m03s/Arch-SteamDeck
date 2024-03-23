@@ -1,0 +1,8 @@
+
+[jupiter-3.5]
+Server = https://steamdeck-packages.steamos.cloud/archlinux-mirror/$repo/os/$arch
+SigLevel = Never
+
+[holo-3.5]
+Server = https://steamdeck-packages.steamos.cloud/archlinux-mirror/$repo/os/$arch
+SigLevel = Never
